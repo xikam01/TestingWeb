@@ -1,6 +1,7 @@
 1)what is the HTml ELements? Waa maxay Html elamanti?
 A::an html  ELements is Defined By a start Tag some Content ,And End Tag
 2)what is the Nested HTML ELements
-B::HTML elements can be nested (this means that elements can contain other elements)
+B::HTML elements can be nested (this meansAthat elementsAcan contain other elements)
 3)what is the Never Skip the End Tag??
 c::Some HTML elements will display correctly, even if you forget the end tag
+4)Empty HTML ELements  ====>
